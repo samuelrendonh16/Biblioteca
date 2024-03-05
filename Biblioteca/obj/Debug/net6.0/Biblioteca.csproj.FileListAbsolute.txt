@@ -1,0 +1,15 @@
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+C:\Users\PAULA\source\repos\Biblioteca\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
